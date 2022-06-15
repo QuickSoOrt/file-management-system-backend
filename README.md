@@ -35,6 +35,11 @@
   npm install --global yarn
   ```
 
+* nestjs/cli
+  ```sh
+  npm install -g @nestjs/cli
+  ```
+
 ### Installation
 
 1. Clone the repo
