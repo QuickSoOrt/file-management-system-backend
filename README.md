@@ -50,9 +50,14 @@
    ```sh
    yarn install
    ```
-3. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+3. Create a folder named 'env' inside the project and inside create a file name 'local.env' with the following content
+   ```sh
+   DATABASE_URL=
+   JWT_SECRET=
+   JWT_EXPIRATION_TIME=3600
+   UPLOAD_FILES_PUBLIC_LOCATION=
+   UPLOAD_FILES_PRIVATE_LOCATION=
+   FILE_ENCRYPTION_KEY=
    ```
 
 8. Run the project
