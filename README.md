@@ -70,9 +70,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
@@ -101,7 +98,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE EXAMPLES>
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -109,6 +106,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+-->
 
 
 
@@ -122,10 +120,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
--->
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+-->
 
 
 <!-- CONTRIBUTING>
@@ -141,9 +137,9 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
--->
-<p align="right">(<a href="#top">back to top</a>)</p>
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+-->
 
 
 <!-- LICENSE
@@ -172,9 +168,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 * []()
 * []()
 * []()
--->
-<p align="right">(<a href="#top">back to top</a>)</p>
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+-->
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
