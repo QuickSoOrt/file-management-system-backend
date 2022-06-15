@@ -51,12 +51,23 @@
    yarn install
    ```
 3. Create a folder named 'env' inside the project and inside create a file name 'local.env' with the following content
-   ```sh
+   ```
+   #The database URL
    DATABASE_URL=
+   
+   #JWT Secret
    JWT_SECRET=
+   
+   #JWT expiration time (e.g 3600)
    JWT_EXPIRATION_TIME=3600
+   
+   
    UPLOAD_FILES_PUBLIC_LOCATION=
+   
+   
    UPLOAD_FILES_PRIVATE_LOCATION=
+   
+   
    FILE_ENCRYPTION_KEY=
    ```
 
