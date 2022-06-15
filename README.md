@@ -16,14 +16,9 @@
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [NestJS](https://nestjs.com/)
+* [MongoDB](https://www.mongodb.com/)
+* [MikroORM](https://mikro-orm.io/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -50,7 +45,7 @@
    ```sh
    yarn install
    ```
-3. Create a folder named 'env' inside the project and inside create a file name 'local.env' with the following content
+3. Create a folder named 'env' inside the project directory and inside create a file named 'local.env' with the following content
    ```
    #The database URL
    DATABASE_URL=
