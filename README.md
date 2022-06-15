@@ -61,13 +61,13 @@
    #JWT expiration time (e.g 3600)
    JWT_EXPIRATION_TIME=3600
    
-   
+   #Location to where public files will be uploaded (e.g C:\Users\your-name\file-system\public\)
    UPLOAD_FILES_PUBLIC_LOCATION=
    
-   
+   #Location to where private files will be uploaded (e.g C:\Users\your-name\file-system\private\)
    UPLOAD_FILES_PRIVATE_LOCATION=
    
-   
+   #Key to encrypt files
    FILE_ENCRYPTION_KEY=
    ```
 
