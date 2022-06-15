@@ -7,7 +7,7 @@
 <h3 align="center">File Management System API</h3>
 
   <p align="center">
-    project_description
+    An API for a file management system written in nestjs following the clean architecture
   </p>
 </div>
 
