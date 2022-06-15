@@ -30,24 +30,29 @@
 
 ### Prerequisites
 
-* npm
+* yarn
   ```sh
-  npm install npm@latest -g
+  npm install --global yarn
   ```
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/QuickSoOrt/file-management-system-backend.git
    ```
 2. Install NPM packages
    ```sh
-   npm install
+   yarn install
    ```
 3. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
+   ```
+
+8. Run the project
+   ```sh
+   yarn start:dev
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
